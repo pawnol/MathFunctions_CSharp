@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\bin\Debug\MathFunctions.exe.config
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\bin\Debug\MathFunctions.exe
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\bin\Debug\MathFunctions.pdb
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\obj\Debug\MathFunctions.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\obj\Debug\MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\obj\Debug\MathFunctions.exe
+C:\Users\Nolan Pawelski\Desktop\MathFunctions\obj\Debug\MathFunctions.pdb
